@@ -74,7 +74,7 @@ Built for **legal, compliance, and product teams** who need rapid, reasoned risk
 
 ## 🎬 Demo
 
-[![EU AI Act Classifier Demo](https://asciinema.org/a/Dvn68cxq9yhVLF2r.svg)](https://asciinema.org/a/Dvn68cxq9yhVLF2r)
+![EU AI Act Classifier Demo](assets/demo.svg)
 
 ```bash
 # Single system classification
