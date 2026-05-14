@@ -1,6 +1,7 @@
 # 🇪🇺 EU AI Act Risk Classifier
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![Claude Skill](https://img.shields.io/badge/Claude-Skill%20Ready-7B68EE?style=flat-square&logo=anthropic&logoColor=white)](SKILL.md)
 [![Claude](https://img.shields.io/badge/Powered%20by-Claude%20Opus-7B68EE?style=flat-square&logo=anthropic&logoColor=white)](https://anthropic.com)
 [![EU AI Act](https://img.shields.io/badge/EU%20AI%20Act-Reg.%202024%2F1689-003399?style=flat-square&logo=eu&logoColor=gold)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1689)
 [![License: MIT](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)](LICENSE)
@@ -252,6 +253,7 @@ eu-ai-act-classifier/
 ├── requirements.txt
 ├── .env.example
 ├── LICENSE
+├── SKILL.md               # Claude skill instructions (upload to Claude Skills)
 ├── examples/
 │   └── sample_systems.csv # 10 sample AI systems for testing
 └── assets/
